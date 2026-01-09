@@ -28,6 +28,7 @@ FemHealth aims to:
 - Maintain strong privacy, consent, and medical safety standards
 
 This project was developed as part of a **health-tech hackathon** to demonstrate responsible use of AI and cloud technologies in women’s health.
+Also, sensitive credentials are securely managed using environment variables and excluded from version control.
 
 ---
 
