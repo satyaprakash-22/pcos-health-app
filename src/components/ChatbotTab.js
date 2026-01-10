@@ -12,7 +12,7 @@ export default function ChatbotTab() {
   const [input, setInput] = useState('');
   const [loading, setLoading] = useState(false);
 
-  const GEMINI_API_KEY = 'AIzaSyChwAvP7iXlvklOnN2SovWfiLRdeCFJS3U';
+  const GEMINI_API_KEY = process.env.REACT_APP_GEMINI_API_KEY;;
 
 const handleSend = async () => {
   if (!input.trim() || loading) return;
