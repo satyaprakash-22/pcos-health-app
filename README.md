@@ -89,6 +89,26 @@ https://pcos-health-app.web.app/
 
 ---
 
+## 📸 Screenshots
+
+### ML Insights Tab (Heavy Bleeding Risk Detected Case)
+<img src="https://github.com/user-attachments/assets/670025fc-b34a-4644-a38c-f039e1cb9eca" width="600" alt="ML Insights - Heavy Bleeding Risk">
+
+### Chatbot (Health-Related Gemini Chatbot)
+<img src="https://github.com/user-attachments/assets/6f331c44-d3e3-4155-9c57-c3ad1a701f75" width="600" alt="Health Chatbot">
+
+### Track Cycle Tab
+<img src="https://github.com/user-attachments/assets/fdfcb159-067f-4954-b79d-b88a48e668e0" width="600" alt="Track Cycle">
+
+### Reports Tab
+<img src="https://github.com/user-attachments/assets/734cc41d-fa0b-47bf-b239-210a166ffaac" width="600" alt="Reports">
+
+### Learn Tab
+<img src="https://github.com/user-attachments/assets/5db92f11-9b08-4946-83bb-2170a5b70951" width="600" alt="Learn">
+
+### Settings Tab
+<img src="https://github.com/user-attachments/assets/b730a3bb-fc76-41eb-9784-983987f0b848" width="600" alt="Settings">
+
 ## Run Locally
 
 ```bash
